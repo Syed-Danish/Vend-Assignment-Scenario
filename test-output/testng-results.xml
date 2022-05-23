@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-19T21:18:00 PKT" name="assignment tests" finished-at="2022-05-19T21:18:06 PKT" duration-ms="5674">
+    <groups>
+      <group name="test-group">
+        <method signature="RestAssured_assignment.Del()[pri:0, instance:RestAssured_assignment@3d5c822d]" name="Del" class="RestAssured_assignment"/>
+        <method signature="RestAssured_assignment.Fetch_User_LIST()[pri:0, instance:RestAssured_assignment@3d5c822d]" name="Fetch_User_LIST" class="RestAssured_assignment"/>
+        <method signature="RestAssured_assignment.create_employee()[pri:0, instance:RestAssured_assignment@3d5c822d]" name="create_employee" class="RestAssured_assignment"/>
+        <method signature="RestAssured_assignment.patch()[pri:0, instance:RestAssured_assignment@3d5c822d]" name="patch" class="RestAssured_assignment"/>
+        <method signature="RestAssured_assignment.put()[pri:0, instance:RestAssured_assignment@3d5c822d]" name="put" class="RestAssured_assignment"/>
+      </group> <!-- test-group -->
+    </groups>
+    <test started-at="2022-05-19T21:18:00 PKT" name="Test" finished-at="2022-05-19T21:18:06 PKT" duration-ms="5674">
+      <class name="RestAssured_assignment">
+        <test-method signature="Del()[pri:0, instance:RestAssured_assignment@3d5c822d]" started-at="2022-05-19T21:18:00 PKT" name="Del" finished-at="2022-05-19T21:18:03 PKT" duration-ms="2476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Del -->
+        <test-method signature="Fetch_User_LIST()[pri:0, instance:RestAssured_assignment@3d5c822d]" started-at="2022-05-19T21:18:03 PKT" name="Fetch_User_LIST" finished-at="2022-05-19T21:18:04 PKT" duration-ms="1267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fetch_User_LIST -->
+        <test-method signature="create_employee()[pri:0, instance:RestAssured_assignment@3d5c822d]" started-at="2022-05-19T21:18:04 PKT" name="create_employee" finished-at="2022-05-19T21:18:05 PKT" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_employee -->
+        <test-method signature="patch()[pri:0, instance:RestAssured_assignment@3d5c822d]" started-at="2022-05-19T21:18:05 PKT" name="patch" finished-at="2022-05-19T21:18:05 PKT" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch -->
+        <test-method signature="put()[pri:0, instance:RestAssured_assignment@3d5c822d]" started-at="2022-05-19T21:18:05 PKT" name="put" finished-at="2022-05-19T21:18:06 PKT" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put -->
+      </class> <!-- RestAssured_assignment -->
+    </test> <!-- Test -->
+  </suite> <!-- assignment tests -->
+</testng-results>
